@@ -1,0 +1,19 @@
+{
+  "name": "my-new-site",
+  "version": "1.0.0",
+  "description": "Personal portfolio site. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "open http://localhost:8080 && node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cmcneese/my-new-site.git"
+  },
+  "author": "Chris McNeese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmcneese/my-new-site/issues"
+  },
+  "homepage": "https://github.com/cmcneese/my-new-site#readme"
+}
